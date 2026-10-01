@@ -1,4 +1,4 @@
 colStats
 testdata/
 colStatsBenchmarkData.tar.gz
-benchresults*.txt
+colStats.test

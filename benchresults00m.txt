@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: colStats
+cpu: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+BenchmarkRun-8   	      10	1534500844 ns/op	534422963 B/op	 5038034 allocs/op
+PASS
+ok  	colStats	17.036s
